@@ -27,3 +27,6 @@ Thumbs.db
 # Git
 .git/
 .gitignore
+
+# Analyze and Train files
+analyzing-training/
